@@ -1,4 +1,4 @@
-# Unreal engine 5 editor themes.
+# Editor themes for Unreal engine 5.
 
 GreyRedMatter
 ![alt text](https://github.com/jaxxtrend/UnrealEngine5Themes/blob/main/GreyRedMatter/Screenshot1.png)
